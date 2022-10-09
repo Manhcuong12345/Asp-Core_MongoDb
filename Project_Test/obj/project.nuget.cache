@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EUDSad9cwOBaEkoObHpAfww39mNTYBrnPm+Nf8u/Zoh2y67uxC31NIxJ5qSXaptK+RpDANesChSx0uO6UOvcIQ==",
+  "dgSpecHash": "9Qbe+JQWKpAwsGzEpnLi2NCM3HU/4VGQzTDvuht4yfkvrCEcMd1iKe3qOjCkpxkz7B08TSKiuVCzUjHVztavRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\Project_Test.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\Project_Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

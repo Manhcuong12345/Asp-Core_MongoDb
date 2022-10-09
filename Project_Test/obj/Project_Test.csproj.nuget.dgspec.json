@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\Project_Test.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\Project_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\Project_Test.csproj": {
+    "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\Project_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\Project_Test.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\Project_Test.csproj",
         "projectName": "Project_Test",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\Project_Test.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\Project_Test.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\Project_Test\\Project_Test\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\Asp-Core_MongoDb\\Project_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
